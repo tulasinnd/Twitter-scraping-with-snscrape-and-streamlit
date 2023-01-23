@@ -37,6 +37,9 @@ A new collection will be created and data is uploaded into that collection  if t
 Step4:
 A separate sidebar is created to display all the collections that are uploaded to the database, On clicking any collection, we can see the documents in that collection
 
+TWITTER SCRAPER STREAMLIT APP WORKING DEMO VIDEO:
+https://www.linkedin.com/posts/tulasi-n-49b6111b0_snscrape-python-streamlit-activity-7023389364365783040-1DUv?utm_source=share&utm_medium=member_desktop
+
 Screenshots:
 ![image](https://user-images.githubusercontent.com/116662776/214135502-ee88fb03-f683-44d2-8e08-010ac4bd6866.png)
 ![image](https://user-images.githubusercontent.com/116662776/214135783-3464a7f5-3faa-4c2d-837a-30c4db3c754c.png)

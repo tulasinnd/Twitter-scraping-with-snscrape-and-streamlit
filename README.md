@@ -48,7 +48,7 @@ open cmd:
 3. > C:\Users\mypc> cd my_twitter_env
 4. > C:\Users\mypc\my_twitter_env> cd Scripts
 5. > C:\Users\mypc\my_twitter_env\Scripts>activate                    # It will activate the virtual environment
-6. > (my_twitter_env)  C:\Users\mypc\> mkdir TwitterScraper           #create a folder and download
+6. > (my_twitter_env)  C:\Users\mypc\> mkdir TwitterScraper           #create a folder 
 7. > (my_twitter_env)  C:\Users\mypc\> cd TwitterScraper              # download the above files from this repository and place inside this folder
 8. > (my_twitter_env)  C:\Users\mypc\TwitterScraper> pip install -r requirements.txt       # it will install all the required modules in the environment
 9. > (my_twitter_env)  C:\Users\mypc\TwitterScraper> streamlit run my_twitter_scraper.py   # Now run the app using streamlit

@@ -43,18 +43,18 @@ A separate sidebar is created to display all the collections that are uploaded t
 
 HOW TO RUN TWITTER SCRAPER IN YOUR MACHINE:
 open cmd:
-> C:\Users\mypc> pip install virtualenv 
-> C:\Users\mypc> virtualenv my_twitter_env
-> C:\Users\mypc> cd my_twitter_env
-> C:\Users\mypc\my_twitter_env> cd Scripts
-> C:\Users\mypc\my_twitter_env\Scripts>activate                    # It will activate the virtual environment
-> (my_twitter_env)  C:\Users\mypc\> mkdir TwitterScraper           #create a folder and download
-> (my_twitter_env)  C:\Users\mypc\> cd TwitterScraper              # download the above files from this repository and place inside this folder
-> (my_twitter_env)  C:\Users\mypc\TwitterScraper> pip install -r requirements.txt       # it will install all the required modules in the environment
-> (my_twitter_env)  C:\Users\mypc\TwitterScraper> streamlit run my_twitter_scraper.py   # Now run the app using streamlit
-> You can now view your Streamlit app in your browser.
-  Local URL: http://localhost:8501
-  Network URL: http://192.168.107.230:8501
+1. > C:\Users\mypc> pip install virtualenv 
+2. > C:\Users\mypc> virtualenv my_twitter_env
+3. > C:\Users\mypc> cd my_twitter_env
+4. > C:\Users\mypc\my_twitter_env> cd Scripts
+5. > C:\Users\mypc\my_twitter_env\Scripts>activate                    # It will activate the virtual environment
+6. > (my_twitter_env)  C:\Users\mypc\> mkdir TwitterScraper           #create a folder and download
+7. > (my_twitter_env)  C:\Users\mypc\> cd TwitterScraper              # download the above files from this repository and place inside this folder
+8. > (my_twitter_env)  C:\Users\mypc\TwitterScraper> pip install -r requirements.txt       # it will install all the required modules in the environment
+9. > (my_twitter_env)  C:\Users\mypc\TwitterScraper> streamlit run my_twitter_scraper.py   # Now run the app using streamlit
+10. > You can now view your Streamlit app in your browser.
+11.   Local URL: http://localhost:8501
+12.   Network URL: http://192.168.107.230:8501
   
  After clicking on the above url you can see the app in your browser
 ![image](https://user-images.githubusercontent.com/116662776/214221876-69dbf560-9230-45ef-a88a-d03b7f824ac7.png)

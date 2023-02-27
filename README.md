@@ -1,4 +1,7 @@
 # Twitter-scraping-with-snscrape-and-streamlit
+
+APPLICATION LINK: https://tulasinnd-twitter-scraping-with-snscrape-twitter-scraper-sm39k5.streamlit.app/
+
 Interative GUI using streamlit for twitter scraping 
 
 REQUIRED SKILLS:
@@ -57,8 +60,7 @@ open cmd:
 12.   Network URL: http://192.168.107.230:8501
   
  After clicking on the above url you can see the app in your browser
-![image](https://user-images.githubusercontent.com/116662776/214221876-69dbf560-9230-45ef-a88a-d03b7f824ac7.png)
-
+ 
   
 TWITTER SCRAPER STREAMLIT APP WORKING DEMO VIDEO:
 https://www.linkedin.com/posts/tulasi-n-49b6111b0_snscrape-python-streamlit-activity-7023389364365783040-1DUv?utm_source=share&utm_medium=member_desktop
